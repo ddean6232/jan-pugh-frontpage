@@ -37,7 +37,7 @@ function App() {
 
         <nav className="mx-auto flex max-w-6xl items-center justify-between rounded-full border border-white/70 bg-white/60 px-5 py-3 shadow-soft backdrop-blur-md">
           <a className="font-serif text-xl text-forest" href="#top">Jan Pugh</a>
-          <a className="rounded-full bg-forest px-5 py-2 text-sm font-semibold text-white shadow-soft transition hover:bg-sage" href="mailto:jan.safehavencounselling@outlook.com">
+          <a className="rounded-full bg-forest px-5 py-2 text-sm font-semibold text-white shadow-soft transition hover:bg-sage" href="mailto:jan@therapy.com">
             Email Jan
           </a>
         </nav>
@@ -45,7 +45,7 @@ function App() {
         <div className="mx-auto grid min-h-[calc(100vh-120px)] max-w-6xl items-center gap-12 py-14 lg:grid-cols-[1fr_0.95fr]">
           <section id="top" className="max-w-2xl">
             <p className="mb-5 inline-flex rounded-full border border-clay/25 bg-white/65 px-4 py-2 text-sm font-semibold uppercase tracking-[0.28em] text-clay">
-              Safe Haven Counselling · Calgary & across Alberta
+              Counselling support · Calgary & across Alberta
             </p>
             <h1 className="font-serif text-5xl leading-[1.02] tracking-tight text-forest sm:text-6xl lg:text-7xl">
               Meet Jan Pugh.
@@ -57,10 +57,10 @@ function App() {
               Clients describe Jan as “gentle, authentic, creative and accepting.” She offers a calm place to be heard, understood, and supported as you move from surviving toward ease, comfort, and connection.
             </p>
             <div className="mt-9 flex flex-col gap-4 sm:flex-row">
-              <a className="rounded-full bg-forest px-7 py-4 text-center font-semibold text-white shadow-soft transition hover:-translate-y-0.5 hover:bg-sage" href="https://www.safehavencounselling.org/book-online">
+              <a className="rounded-full bg-forest px-7 py-4 text-center font-semibold text-white shadow-soft transition hover:-translate-y-0.5 hover:bg-sage" href="tel:4035551212">
                 Book free consultation
               </a>
-              <a className="rounded-full border border-forest/20 bg-white/70 px-7 py-4 text-center font-semibold text-forest shadow-soft backdrop-blur transition hover:-translate-y-0.5 hover:bg-white" href="mailto:jan.safehavencounselling@outlook.com">
+              <a className="rounded-full border border-forest/20 bg-white/70 px-7 py-4 text-center font-semibold text-forest shadow-soft backdrop-blur transition hover:-translate-y-0.5 hover:bg-white" href="mailto:jan@therapy.com">
                 Email me directly
               </a>
             </div>
@@ -127,8 +127,8 @@ function App() {
             <a className="rounded-full bg-forest px-7 py-4 font-semibold text-white shadow-soft transition hover:-translate-y-0.5 hover:bg-sage" href="https://www.psychologytoday.com/ca/therapists/jan-pugh-calgary-ab/1350295">
               Psychology Today profile
             </a>
-            <a className="rounded-full border border-forest/20 bg-white px-7 py-4 font-semibold text-forest shadow-soft transition hover:-translate-y-0.5" href="tel:4034785770">
-              Call 403-478-5770
+            <a className="rounded-full border border-forest/20 bg-white px-7 py-4 font-semibold text-forest shadow-soft transition hover:-translate-y-0.5" href="tel:4035551212">
+              Call 403-555-1212
             </a>
           </div>
         </div>
